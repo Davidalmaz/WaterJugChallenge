@@ -38,6 +38,7 @@ To run the Water Jug Challenge, ensure you have [.NET Core](https://dotnet.micro
 
 ## Validation cases with API
 
+### Case 1
 ### Request
 
 curl -X 'POST' \
@@ -82,6 +83,7 @@ curl -X 'POST' \
 ]
 ```
 
+### Case 2
 ### Request
 
 curl -X 'POST' \
@@ -126,6 +128,7 @@ curl -X 'POST' \
 ]
 ```
 
+### Case 3
 ### Request
 
 curl -X 'POST' \
